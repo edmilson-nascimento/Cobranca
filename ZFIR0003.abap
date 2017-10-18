@@ -13,7 +13,6 @@ type-pools:
 *-
 **********************************************************************
 data:
-* boleto      type ref to lcl_boleto_class,
   boleto      type ref to zcl_fi_boleto,
   bal_log     type ref to zcl_bal_log,
 

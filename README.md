@@ -4,3 +4,5 @@
 
 A solução apresentada mostra a criação de boleto para cobrança SAP para o banco Itau.
 Para facilitar testes, ao inves de implementar na exit, como normalmente é feito, resolvi criar um programa para tal finalizadade. Ainda em desenvolvimento, mas faltando poucos ajustes para ser finalizado.
+
+Solução sujeita a melhorias.

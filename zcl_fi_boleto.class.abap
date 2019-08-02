@@ -460,9 +460,6 @@ class zcl_fi_boleto implementation.
         and hbkid eq knb1_line-hbkid .
 
     if sy-subrc eq 0 .
-**      if v_hktid is initial.
-**        v_hktid = w_dados-hktid.
-**      endif.
     else.
 *     message s000(>0) with text-004 v_hbkid display like 'E'.
       exit .
